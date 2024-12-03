@@ -1,5 +1,6 @@
 Social game
-3/27/20160 Comments
+3/27/2016
+
 Hypothesis: To create a game that helps older people (age 50) use a stripped down, simpler version of Twitter as a means of communication.
 
 Process and Reflection
