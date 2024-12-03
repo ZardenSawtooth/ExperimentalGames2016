@@ -15,3 +15,7 @@ Since this was a short 2 hour development time, the time to come up with differe
 ### Conclusion
 
 My game was liked and well received. The level design was interesting and the moving platforms added a sense of grandeur to the game. The mechanics are simple to understand for the player. Additionally building the levels was not very hard and would work very well for a short game play experience. I am very happy with what I ended up with.
+
+### Game Controls
+
+WASD to move

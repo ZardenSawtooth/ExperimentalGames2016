@@ -18,3 +18,7 @@ I was, however, not sold on the idea of using combat in a game like this to enco
 ### Conclusion
 
 While the goal of my game was clear and so was how to play it, there was a more fundamental issue with my game. Initially I thought my idea was cool but after much feedback I realized there wasn’t any real problem I was solving. A lack of research into why exactly older people didn’t use twitter would have resulted in a better game. I would consider my approach a failure as far as the goal of the experiment is concerned. The lesson learned was, do more research into what the problems are before trying to solve something.
+
+### Game Controls
+
+Mouse only

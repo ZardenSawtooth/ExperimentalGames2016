@@ -15,3 +15,7 @@ On to a more dumbed down version of the same idea. I decided that instead of mak
 ### Conclusion
 
 The idea that I was going for was that being your own person is more rewarding than taking away from others what is theirs. I think I presented it poorly by having a narrative over the game. Since I was going for an idea that was abstract, having the narrative sort of destroyed its purpose. I also think my game didn’t sufficiently bring across the idea of envy that I was going for. All in all I think a not very successful experiment with my game on envy. Had there been more meaningful interaction between the player and me I think the idea would have come across better.
+
+### Game Controls
+
+A and D to move. Space to interact.

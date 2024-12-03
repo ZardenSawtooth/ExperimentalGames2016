@@ -15,3 +15,7 @@ However, the game seemed to still have no point; no beginning or end goal to mak
 ### Conclusion
 
 I wasn’t sure of this idea and whether it was enough to make the player get that this is what is happening with his clicks. So I had a few people playtest my game. I realized that while it was impossible to predict what pattern of raindrops the player would input, there were certain general predictions that could be made. With a slightly more forced set of input patterns, this experience would be very convincing. Another thing my playtesting proved was that when people realized that what they were doing was affecting the character's mindset, it had a powerful effect on them.
+
+### Game Controls
+
+Mouse click to play
